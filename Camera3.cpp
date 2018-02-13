@@ -4,6 +4,7 @@
 #include "Box.h"
 #include "Var.h"
 
+//PUSSY BOI
 Camera3::Camera3()
 {
 }
